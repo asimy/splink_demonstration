@@ -1,0 +1,13 @@
+[project]
+name = "splink-sample"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter>=1.1.1",
+    "jupyterlab>=4.3.5",
+    "nbconvert>=7.16.6",
+    "pyarrow>=19.0.1",
+    "splink>=4.0.6",
+]
